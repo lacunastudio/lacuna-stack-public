@@ -44,9 +44,16 @@ Estrutura operacional completa. Você clica em "Use this template" no GitHub e t
 - SETUP.md com passo a passo da primeira hora
 - Etiquetas E/O/EX (essencial / opcional / exemplo) em cada peça
 
-### 3. Bônus — Notion template adaptado
+### 3. Pack de templates operacionais de serviços
 
-Mesma estrutura conceitual em ambiente Notion. Pra quem prefere começar em interface visual antes de migrar pra ferramentas AI-native.
+4 arquivos markdown prontos pra adaptar quando você for prestar serviço pros seus clientes:
+
+- **Proposta** com slots claros, 3 opções de pagamento, validade
+- **Contrato** de 1 página com cláusulas essenciais
+- **Brief escrito** automatizado com perguntas-filtro
+- **Handoff** de entrega por serviço (checklist por categoria)
+
+*Pra você começar a prestar serviço sem reinventar processo.*
 
 ---
 

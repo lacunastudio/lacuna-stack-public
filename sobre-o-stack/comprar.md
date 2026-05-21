@@ -29,9 +29,9 @@ Sem assinatura recorrente. Pagamento único.
 
 - **Manual em PDF** (~106 páginas A4) — framework completo
 - **Repositório GitHub template clonável** — estrutura operacional adaptável
-- **Bônus: Notion template adaptado** — mesma estrutura em ambiente Notion
+- **Pack de templates operacionais de serviços** — proposta + contrato + brief + handoff prontos pra adaptar quando for prestar serviço pros seus clientes
 - **Updates vitalícios** — toda evolução do framework entra automaticamente
-- **1 mês grátis na Lacuna Cell** quando a comunidade lançar
+- **Founder member vitalício na Lacuna Cell** (100 primeiros compradores) — sem mensalidade depois
 - **14 dias de garantia incondicional** — devolução total sem precisar justificar
 
 ---
@@ -42,7 +42,8 @@ Em até 5 minutos após confirmação do pagamento, você recebe e-mail com:
 
 - Link pro download do PDF
 - Convite pra acessar o repositório template no GitHub
-- Link pro Notion template duplicável
+- Link pro Pack de templates operacionais (4 arquivos markdown)
+- Convite founder member pra Lacuna Cell (quando comunidade abrir)
 - Link pra página de updates
 
 ---
